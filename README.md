@@ -3,6 +3,10 @@ Image-Encryption-and-Decryption-using-AES-algorithm
 
 ![alt text](image.png)
 
+###  Technologys used
+
+[![My Skills](https://skillicons.dev/icons?i=py,linux,ubuntu&theme=light)](https://skillicons.dev)
+
 ### Installing Dependencies -
 
 
